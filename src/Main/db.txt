@@ -1,0 +1,52 @@
+The Shawshank Redemption*1994*142*Tim Robbins*Morgan Freeman*Frank Darabont
+The Godfather*1972*175*Marlon Brando*Al Pacino*Francis Ford Coppola
+The Godfather: Part II*1974*202*Al Pacino*Robert De Niro*Francis Ford Coppola
+Batman Begins*2005*140*Christian Bale*Michael Caine*Christopher Nolan
+The Dark Knight*2008*152*Christian Bale*Heath Ledger*Christopher Nolan
+The Dark Knight Rises*2012*164*Christian Bale*Tom Hardy*Christopher Nolan
+Demon Slayer: Mugen Train*2020*117*Natsuki Hanae*Akari Kitô*Haruo Sotozaki
+Kimetsu no Yaiba: Mugen Ressha-Hen*2020*117*Natsuki Hanae*Akari Kitô*Haruo Sotozaki
+Captain America: The First Avenger*2011*124*Chris Evans*Hugo Weaving*Joe Johnston
+Captain Marvel*2019*123*Brie Larson*Samuel L. Jackson*Anna Boden, Ryan Fleck
+Iron Man*2008*126*Robert Downey Jr.*Gwyneth Paltrow*Jon Favreau
+Iron Man 2*2010*124*Robert Downey Jr.*Mickey Rourke*Jon Favreau
+Thor*2011*115*Chris Hemsworth*Anthony Hopkins*Kenneth Branagh
+The Incredible Hulk*2008*112*Edward Norton*Liv Tyler*Louis Letterrier
+The Avengers*2012*143*Robert Downey Jr.*Chris Evans*Joss Whedon
+Iron Man 3*2013*130*Robert Downey Jr.*Guy Pearce*Shane Black
+Thor: The Dark World*2013*112*Chris Hemsworth*Natalie Portman*Alan Taylor
+Captain America: The Winter Soldier*2014*136*Chris Evans*Samuel L. Jackson*Anthony Russo, Joe Russo
+Guardians of the Galaxy*2014*121*Chris Pratt*Vin Diesal*James Gunn
+Guardians of the Galaxy Vol. 2*2017*136*Chris Pratt*Zoe Saldana*James Gunn
+Avengers: Age of Ultron*2015*141*Robert Downey Jr.*Chris Evans*Joss Whedon
+Ant-Man*2015*117*Paul Rudd*Michael Douglas*Peyton Reed
+Captain America: Civil War*2016*147*Chris Evans*Robert Downey Jr.*Anthony Russo, Joe Russo
+Spider-Man: Homecoming*2017*133*Tom Holland*Michael Keaton*Jon Watts
+Doctor Strange*2016*115*Benedict Cumberbatch*Chiwetel Ejiofor*Scott Derrickson
+Black Panther*2018*134*Chadwick Boseman*Michael B. Jordan*Ryan Coogler
+Thor: Ragnarok*2017*130*Chris Hemsworth*Tom Hiddleston*Taika Waititi
+Avengers: Infinity War*2018*149*Robert Downey Jr.*Chris Hemsworth*Anthony Russo, Joe Russo
+Ant-Man and the Wasp*2018*118*Paul Rudd*Evangeline Lily*Peyton Reed
+Avengers: Endgame*2019*181*Robert Downey Jr.*Chris Evans*Anthony Russo, Joe Russo
+Spider-Man: Far from Home*2019*129*Tom Holland*Samuel L. Jackson*Jon Watts
+John Wick*2014*101*Keanu Reeves*Michael Nyqvist*Chad Stahelski
+John Wick: Chapter 2*2017*122*Keanu Reeves*Riccardo Scamarcio*Chad Stahelski
+John Wick: Chapter 3 - Parabellum*2019*130*Keanu Reeves*Halle Berry*Chad Stahelski
+Kingsman: The Secret Service*2014*129*Colin Firth*Taron Egerton*Matthew Vaughn
+Kingsman: The Golden Circle*2017*141*Taron Egerton*Colin Firth*Matthew Vaughn
+Baby Driver*2017*113*Ansel Elgort*Jon Bernthal*Edgar Wright
+Rush Hour*1998*98*Jackie Chan*Chris Tucker*Brett Ratner
+Rush Hour 2*2001*90*Jackie Chan*Chris Tucker*Brett Ratner
+Rush Hour 3*2007*91*Jackie Chan*Chris Tucker*Brett Ratner
+Godzilla*2014*123*Aaron Taylor-Johnson*Elizabeth Olsen*Gareth Edwards
+Kong: Skull Island*2017*118*Tom Hiddleston*Samuel L. Jackson*Jordan Vogt-Roberts
+Godzilla: King of the Monsters*2019*132*Kyle Chandler*Vera Farmiga*Michael Dougherty
+Godzilla vs. Kong*2021*113*Alexander Skarsgård*Millie Bobby Brown*Adam Wingard
+It*2017*135*Bill Skarsgård*Jaeden Martell*Andy Muschietti
+It Chapter Two*2019*169*Jessica Chastain*James McAvoy*Andy Muschietti
+Split*2016*117*James McAvoy*Anya Taylor-Joy*M. Night Shyamalan
+The Conjuring*2013*112*Patrick Wilson*Vera Farmiga*James Wan
+The Conjuring 2*2016*134*Vera Farmiga*Patrick Wilson*James Wan
+A Silent Voice: The Movie*2016*130*Miyu Irino*Saori Hayami*Naoko Yamada
+Suicide Squad*2016*123*Will Smith*Jared Leto*David Ayer
+Wonder Woman*2017*141*Gal Gadot*Chris Pine*Patty Jenkins
